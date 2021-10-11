@@ -3,15 +3,14 @@
 This project was created for patika.dev react-native camp homework.
 
 ### Dummy Data
-`
-{
+```
+[ {
     "id": 0,
     "title": "Xiaomi Mi True Wireless Earbuds",
     "imgURL": "https://m.media-amazon.com/images/I/51uguxa9nYL._AC._SR360,460.jpg",
     "price": "₺134,77",
     "inStock": true
   },
-
   {
     "id": 1,
     "title": "General Mobile GM 20",
@@ -19,7 +18,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺1.810,21",
     "inStock": true
   },
-
   {
     "id": 2,
     "title": "Philips 58PUS8505/62 The One",
@@ -27,7 +25,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺6.992,25",
     "inStock": false
   },
-
   {
     "id": 3,
     "title": "LG 49UM7100PLB Ultra HD 4K",
@@ -35,7 +32,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺4.614,38",
     "inStock": true
   },
-
   {
     "id": 4,
     "title": "Samsung Galaxy M31 SM-M315F",
@@ -43,7 +39,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺2.995,80",
     "inStock": true
   },
-
   {
     "id": 5,
     "title": "Apple AirPods Series 2",
@@ -51,7 +46,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺1.299,00",
     "inStock": true
   },
-
   {
     "id": 6,
     "title": "Lenovo Tab M10 Plus",
@@ -59,7 +53,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺2.496,50",
     "inStock": false
   },
-
   {
     "id": 7,
     "title": "Xiaomi Redmi 20000 Mah",
@@ -67,7 +60,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺134,70",
     "inStock": false
   },
-
   {
     "id": 8,
     "title": "Xiaomi Mijia Smart Home 360",
@@ -75,7 +67,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺269,73",
     "inStock": true
   },
-
   {
     "id": 9,
     "title": "Xiaomi Mi Box S 4K Ultra HD",
@@ -83,7 +74,6 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺478,53",
     "inStock": true
   },
-
   {
     "id": 10,
     "title": "Haylou Solar LS-5 Smartwatch",
@@ -91,14 +81,22 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺296,00",
     "inStock": true
   }
-`
+]
+```
 
 ### Images
+<p float="left">
+  <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A1.png" width="300" height="500">
+  <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A2.png" width="300" height="500">
+</p>
 
-<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A1.png" width="400" height="600">
+<p float="left">
+  <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS1.png" width="300" height="500">
+  <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS2.png" width="300" height="500">
+</p>
 
-<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A2.png" width="400" height="600">
 
-<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS1.png" width="400" height="600">
 
-<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS2.png" width="400" height="600">
+
+
+
