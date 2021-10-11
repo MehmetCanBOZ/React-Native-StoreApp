@@ -85,12 +85,12 @@ This project was created for patika.dev react-native camp homework.
 ```
 
 ### Images
-<p style="display: flex; align-items: flex-start;">
+<p style="display: flex; justify-content: space-between;">
   <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A1.png" width="300" height="500">
   <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A2.png" width="300" height="500">
 </p>
 
-<p syle="display: flex; align-items: flex-start;">
+<p syle="display: flex; justify-content: space-between;">
   <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS1.png" width="300" height="500">
   <img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS2.png" width="300" height="500">
 </p>
