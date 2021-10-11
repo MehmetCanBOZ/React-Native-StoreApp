@@ -11,6 +11,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺134,77",
     "inStock": true
   },
+
   {
     "id": 1,
     "title": "General Mobile GM 20",
@@ -18,6 +19,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺1.810,21",
     "inStock": true
   },
+
   {
     "id": 2,
     "title": "Philips 58PUS8505/62 The One",
@@ -25,6 +27,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺6.992,25",
     "inStock": false
   },
+
   {
     "id": 3,
     "title": "LG 49UM7100PLB Ultra HD 4K",
@@ -32,6 +35,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺4.614,38",
     "inStock": true
   },
+
   {
     "id": 4,
     "title": "Samsung Galaxy M31 SM-M315F",
@@ -39,6 +43,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺2.995,80",
     "inStock": true
   },
+
   {
     "id": 5,
     "title": "Apple AirPods Series 2",
@@ -46,6 +51,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺1.299,00",
     "inStock": true
   },
+
   {
     "id": 6,
     "title": "Lenovo Tab M10 Plus",
@@ -53,6 +59,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺2.496,50",
     "inStock": false
   },
+
   {
     "id": 7,
     "title": "Xiaomi Redmi 20000 Mah",
@@ -60,6 +67,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺134,70",
     "inStock": false
   },
+
   {
     "id": 8,
     "title": "Xiaomi Mijia Smart Home 360",
@@ -67,6 +75,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺269,73",
     "inStock": true
   },
+
   {
     "id": 9,
     "title": "Xiaomi Mi Box S 4K Ultra HD",
@@ -74,6 +83,7 @@ This project was created for patika.dev react-native camp homework.
     "price": "₺478,53",
     "inStock": true
   },
+
   {
     "id": 10,
     "title": "Haylou Solar LS-5 Smartwatch",
@@ -84,3 +94,11 @@ This project was created for patika.dev react-native camp homework.
 `
 
 ### Images
+
+![Android 1](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A1.png)
+
+![Android 2](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A2.png)
+
+![IOS 1](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS1.png)
+
+![IOS 2](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS2.png)
