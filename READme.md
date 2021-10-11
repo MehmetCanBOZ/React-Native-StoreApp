@@ -95,10 +95,10 @@ This project was created for patika.dev react-native camp homework.
 
 ### Images
 
-![Android 1](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A1.png)
+<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A1.png" width="400" height="600">
 
-![Android 2](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A2.png)
+<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/A2.png" width="400" height="600">
 
-![IOS 1](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS1.png)
+<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS1.png" width="400" height="600">
 
-![IOS 2](https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS2.png)
+<img src="https://github.com/MehmetCanBOZ/React-Native-StoreApp/blob/master/assets/images/IOS2.png" width="400" height="600">
